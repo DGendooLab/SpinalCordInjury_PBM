@@ -3,7 +3,7 @@ This Github repository contains data related to the following manuscript:
 Evaluation of transcriptomic changes after photobiomodulation in spinal cord injury
 
 Authors: 
-Andrew R. Stevens 1,2,3, 
+<p><h1>Andrew R. Stevens 1,2,3 </h1></p>
 Mohammed Hadis 3,4, 
 Hannah Alldrit 5, 
 Michael Milward 3,4, 
